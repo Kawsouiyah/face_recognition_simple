@@ -19,7 +19,9 @@ Tu peux changer le nom affiché en remplaçant "Angelina Jolie" par le nom de to
 ```bash
 label = "Angelina Jolie" if score < 50 else "Inconnu"
 
-## Améliorations futures 
+
+
+## Améliorations futures
 Remplacer la méthode de comparaison par un modèle deep learning (ex: FaceNet, Dlib).
 
 Support multi-visages enregistrés.
